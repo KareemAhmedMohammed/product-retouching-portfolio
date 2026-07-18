@@ -1,0 +1,9 @@
+.DS_Store
+.localized
+.git/
+node_modules/
+.agents/
+task.md
+implementation_plan.md
+walkthrough.md
+*.log
